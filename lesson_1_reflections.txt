@@ -1,0 +1,42 @@
+Thales' Version Control Lesson 1 Reflections
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	Mainly because it highlight changes between versions. So, that restrics the scope of possibilities
+	that caused the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Because you can compare specific versions and you can have a timeline of changes of a file/project.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	When you decide when to commit, you have the choice to produce logical points in versions, but
+	you will have to make a good judgment. On the other hand, automatic saves are more pratical
+	but not give us the chance to make logical steps in versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+	
+	I believe it depends on version control's purpose. Git is focused on coding and project management.
+	Others tools may be biased to general files and documents.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log will show the recent commits in cronological order. git diff will produce a formatted output
+	with differences between both commits such as deletions and insertion lines.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	Version control permits recover from breaken projects to previous functional states.
+	Additionally, you are able to track the exactly moment the bug was inserted.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I would try to work on a project, commiting changes and going back and forth as needed.
+	This experience would give me a first impression of the benefits of its use in a daily basis.
